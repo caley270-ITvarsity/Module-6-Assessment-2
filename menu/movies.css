@@ -1,0 +1,83 @@
+/*menu bar below*/
+#menu{
+    width: auto;
+    height: 55px;
+    background-color: black;
+    padding-top: 6px;
+}
+
+#menu a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: 800px;;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 5px;
+}
+
+#menu a:hover{
+    color: teal;
+}
+h1 {
+    color: black;
+    font-size: 20px;
+    }
+
+.header img{
+    width: 100px;
+    padding-top: 14px;
+    padding-right: 25px;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+
+/*===== HOME PAGE MENU=====*/
+
+.home-menu-item{
+     text-decoration: none;  
+     text-transform: uppercase;
+
+   color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #ffffff;
+    
+    display: block;
+    margin-left: 0%;
+    margin: auto;
+    margin-bottom: 10px;
+    width:80%; 
+    height: 273%;
+}
+
+
+.body-home {
+    background-image: url('img/mall_at_millenia_malls_closing_for_irma_facebook.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+body {
+    color: black;
+  }
+  
+  .body-meals {
+    background-image: url('img/movie\ bg.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
